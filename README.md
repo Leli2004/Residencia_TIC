@@ -4,7 +4,6 @@
 
 ## Projeto desenvolvido
 - Sensoriamento e controle de temperatura no processo de delivery de alimentos.
-###
 
 ## Equipe desenvolvedora
 
