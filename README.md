@@ -6,7 +6,7 @@
 
 ## Equipe desenvolvedora
 
-Desenvolvedor   | LinkedIn | Github
+Desenvolvedor   | Github | LinkedIn
 --------- | ------ | ------
 Ariadne Rodrigues Vasconcelos | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devari/)
 Daniela do Nascimento Dalla Vecchia | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-do-nascimento-dalla-vecchia-052414280/) 
