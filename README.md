@@ -13,4 +13,3 @@ Github   | Desenvolvedor
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME) | Daniela do Nascimento Dalla Vecchia
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leli2004) | Danieli do Nascimento Dalla Vecchia
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME) | Lorenzo Brunetto Romancini
-
